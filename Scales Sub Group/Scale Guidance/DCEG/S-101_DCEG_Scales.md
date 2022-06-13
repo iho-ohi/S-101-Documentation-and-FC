@@ -1,3 +1,14 @@
+**1.3 Terms, definitions and abbreviations**
+
+**1.3.1 Terms and definitions**
+
+**maximum display scale**
+the largest value of the ratio of the linear dimensions of **features** of a **dataset** presented in the display and the actual dimensions of the **features** represented (largest scale) of the scale range of the **dataset**
+
+**minimum display scale**
+the smallest value of the ratio of the linear dimensions of **features** of a **dataset** presented in the display and the actual dimensions of the **features** represented (smallest scale) of the scale range of the **dataset**
+
+
 **2.5 Datasets**
 
 A Dataset is a grouping of features, attributes, geometry and metadata
