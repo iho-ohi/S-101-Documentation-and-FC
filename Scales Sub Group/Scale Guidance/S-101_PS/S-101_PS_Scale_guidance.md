@@ -19,7 +19,7 @@ which comprises a specific coverage.
 
 In order to facilitate the efficient processing of ENC data the
 geographic coverage of a given **maximum display scale** may be split
-into multiple datasets.
+into multiple datasets (see clause 4.5.4).
 
 The discovery metadata of a dataset must list all the **Data Coverage**
 features contained within that dataset and their assigned scale
