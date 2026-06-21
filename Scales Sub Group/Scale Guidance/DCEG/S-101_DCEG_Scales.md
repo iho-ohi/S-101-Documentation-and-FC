@@ -3,10 +3,16 @@
 **1.3.1 Terms and definitions**
 
 **maximum display scale**
-the largest value of the ratio of the linear dimensions of **features** of a **dataset** presented in the display and the actual dimensions of the **features** represented (largest scale) of the scale range of the **dataset**
+
+The maximum scale with which the data is displayed
 
 **minimum display scale**
-the smallest value of the ratio of the linear dimensions of **features** of a **dataset** presented in the display and the actual dimensions of the **features** represented (smallest scale) of the scale range of the **dataset**
+
+The minimum scale with which the data is displayed
+
+**viewing scale**
+
+the value of the ratio of the linear dimensions of **features** of a **dataset** presented in the display and the actual dimensions of the **features** represented of the **dataset**
 
 
 **2.5 Datasets**
